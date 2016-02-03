@@ -10,6 +10,8 @@ How to set it up:
  
 3. modify the index.html
 
+  (open the index.html with an text editor of your choice)
+
   3.1 change the title of your portfolio
   
   3.2 change your name, job and email adress inside [div id="bannertext"] and [div id="footertext"]
